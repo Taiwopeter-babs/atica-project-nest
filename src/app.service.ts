@@ -15,7 +15,7 @@ export class AppService {
 
     Contact Me:
               Twitter: @realtaiwo_peter
-              Gmail: babalolataiwop@gmail.com
+              Github: https://www.gtihub.com/Taiwopeter-babs
               Linkedin: https://www.linkedin.com/in/taiwo-babalola
     
     `;
